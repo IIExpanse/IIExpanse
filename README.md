@@ -43,3 +43,4 @@
 ### :fire: Моя статистика:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IIExpanse&hide_border=true)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IIExpanse&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+![Leetcode Stats](https://leetcard.jacoblin.cool/_Expanse)
