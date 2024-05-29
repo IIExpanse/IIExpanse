@@ -18,7 +18,7 @@
 
 ---
 Я Java разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :computer: Написал более 5 пользовательских сервисов различной направленности.
+- :computer: Написал ряд пользовательских сервисов на Spring и Quarkus в императивном и реактивном стиле.
 
 - :telescope: Активно изучаю все, что связано с Java и смежными технологиями.
 
