@@ -22,8 +22,6 @@
 
 - :telescope: Активно изучаю все, что связано с Java и смежными технологиями.
 
-- :zap: В свободное время решаю задачи на  [![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/_Expanse/) и изучаю технические статьи.
-
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/IExpanse-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/lExpanse)
 ---
 
