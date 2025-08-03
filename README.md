@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=IIExpanse&style=flat-square&color=blue" alt=""/>
 </div>
 
-### Привет! 👋
+### Hi! 👋
 
 ---
 I'm Java developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -29,7 +29,7 @@ I'm Java developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 <br>Remember that this is my personal space and most content here is just a partial free-time activity record, not a demonstration material.
 ---
 
-### :hammer_and_wrench: Основные языки и технологии:
+### :hammer_and_wrench: Core languages and technologies:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/-Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
@@ -46,7 +46,7 @@ I'm Java developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 ![gRPC](https://img.shields.io/badge/gRPC-%2372A1E5?style=for-the-badge)
 ---
 
-### :fire: Моя статистика:
+### :fire: My stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IIExpanse&hide_border=true)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IIExpanse&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 [![Leetcode Stats](https://leetcard.jacoblin.cool/_Expanse)](https://leetcode.com/_Expanse?)
