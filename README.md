@@ -1,8 +1,8 @@
 
-<div id="header" align="center"> 
+<div id="header" style="text-align: center"> 
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b25jMGoyMWFqbjJ0dTBhNms0aGF5dmUyYjRpcGt5aWR2c3I2OHJscSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYRo2eWeDzMs85G/giphy.gif" width="100" alt="coffee cup"/> 
 </div>
-<div id="badges" align="center">
+<div id="badges" style="text-align: center">
   <a href="https://www.linkedin.com/in/alexander--bulatov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-<div align="center">
+<div style="text-align: center">
   <img src="https://komarev.com/ghpvc/?username=IIExpanse&style=flat-square&color=blue" alt=""/>
 </div>
 
@@ -18,7 +18,7 @@
 
 ---
 I'm Java developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :computer: Developed a number of Quarkus and Spring, including reactive style.
+- :computer: Developed a number of Quarkus and Spring applications.
 
 - :telescope: Actively studying all Java-related and adjacent technologies.
 
