@@ -23,10 +23,6 @@ I'm Java developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 - :telescope: Actively studying all Java-related and adjacent technologies.
 
 - :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/IExpanse-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/lExpanse)
-
-
-- :exclamation: Disclaimer: if you are here for the purpose of evaluating me in any way, you are advised to view pinned repositories only.
-<br>Remember that this is my personal space and most content here is just a partial free-time activity record, not a demonstration material.
 ---
 
 ### :hammer_and_wrench: Core languages and technologies:
